@@ -1,5 +1,7 @@
 ## Discover More
 
+![](https://github.com/officialxviid/officialxviid/blob/main/assets/images/xviidcdn-banner.png?raw=true)
+
 ### XVIID
 
 XVIID was founded on May 1 2020 by the nation's children in Bandung who develop, manufacture, license, and support various products and services related to computers.
