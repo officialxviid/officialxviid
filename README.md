@@ -1,8 +1,8 @@
 ## Discover More
 
-### XVIID
+### XVIID 
 
-XVIID was founded on May 1 2020 by the nation's children in Bandung who develop, manufacture, license, and support various products and services related to computers.
+Living beautifully with technology.
 
 [➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/xviid.net)
 
@@ -24,6 +24,12 @@ Reach your information with one touch.
 
 [➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/mairinku.com)
 
+### ProTech
+
+Build your dream with us.
+
+[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/protech.xviid.net)
+
 ### API
 
 Create awesome apps with XVIID.
@@ -32,6 +38,6 @@ Create awesome apps with XVIID.
 
 ### CDN
 
-A geographically distributed network of XVIID proxy servers and data centers that aims to provide high availability and performance by distributing services based on the location closest to the end user.
+Distributed geographically with a network of proxy servers and XVIID data center.
 
 [➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/cdn.xviid.net)
