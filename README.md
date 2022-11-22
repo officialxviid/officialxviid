@@ -10,9 +10,6 @@
   <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
     <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
   </a>
-  <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?color=informational&label=sponsor&message=5" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
-  </a>
 </p>
 
 <blockquote align="center">
