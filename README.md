@@ -1,43 +1,27 @@
-## Discover More
+<h1 align="center">
+  <a href="https://github.com/officialxviid/disgester">
+    <img src="https://github.com/officialxviid/xviid/blob/master/logo-1.png?raw=true" width="250"/>
+  </a>
+  <br>
+  XVIID
+</h1>
 
-### XVIID 
+<h4 align="center">Living Beautifully With Technology</h4>
 
-Living beautifully with technology.
+<p align="center">
+  <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?color=informational&label=sponsor&message=5" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
+  </a>
+</p>
 
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/xviid.net)
+<blockquote align="center">
+XVIID was founded on May 1 2020 in Bandung who develops, manufactures, licenses and supports various products and services related to computers.
+</blockquote>
 
-### Plugins
+<p align="center">
+  <a href="https://xviid.net/about">About</a>&nbsp;|&nbsp;<a href="https://xviid.net/products">Products</a>&nbsp;|&nbsp;<a href="https://chio.xviid.net/">Chio</a>
+</p>
 
-A piece of software that adds certain features to a program without requiring you to change the program itself.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/plugins.xviid.net)
-
-### Chio
-
-XVIID's assistant who aims to assist XVIID's services.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/chio.xviid.net)
-
-### Mairinku
-
-Reach your information with one touch.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/mairinku.com)
-
-### ProTech
-
-Build your dream with us.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/protech.xviid.net)
-
-### API
-
-Create awesome apps with XVIID.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/api.xviid.net)
-
-### CDN
-
-Distributed geographically with a network of proxy servers and XVIID data center.
-
-[➡️ Read More](https://github.com/officialxviid/officialxviid/tree/main/cdn.xviid.net)
