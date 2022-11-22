@@ -7,7 +7,7 @@
 <p align="center"><b>Living Beautifully With Technology</b></p>
 
 <p align="center">
-  <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
+  <a href="https://github.com/officialxviid/officialxviid/wiki/Repo" rel="nofollow">
     <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
   </a>
 </p>
