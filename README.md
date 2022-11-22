@@ -10,6 +10,12 @@
   <a href="https://github.com/officialxviid/officialxviid/wiki/Repo" rel="nofollow">
     <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" alt="Repo" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=repo&message=2" style="max-width:100%;">
   </a>
+  <a href="https://twitter.com/officialxviid/" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Follow&message=%40officialxviid" alt="Twitter" data-canonical-src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;">
+  </a>
+  <a href="https://instagram.com/officialxviid/" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Follow&message=%40officialxviid" alt="Instagram" data-canonical-src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;">
+  </a>
 </p>
 
 <blockquote align="center">
