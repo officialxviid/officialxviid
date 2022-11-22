@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/officialxviid/disgester">
-    <img src="https://github.com/officialxviid/xviid/blob/master/logo-1.png?raw=true" width="250"/>
+  <a href="https://xviid.net/">
+    <img src="https://raw.githubusercontent.com/officialxviid/officialxviid/main/assets/xviid/logo-1.png" width="100"/>
   </a>
   <br>
   XVIID
