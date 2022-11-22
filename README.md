@@ -1,12 +1,10 @@
-<h1 align="center">
+<p align="center">
   <a href="https://xviid.net/">
-    <img src="https://raw.githubusercontent.com/officialxviid/officialxviid/main/assets/xviid/logo-1.png" width="100"/>
+    <img src="https://raw.githubusercontent.com/officialxviid/officialxviid/main/assets/xviid/LTV-01.png" width="150"/>
   </a>
-  <br>
-  XVIID
-</h1>
+</p>
 
-<h4 align="center">Living Beautifully With Technology</h4>
+<p align="center"><b>Living Beautifully With Technology</b></p>
 
 <p align="center">
   <a href="https://github.com/officialxviid/disgester/releases" rel="nofollow">
