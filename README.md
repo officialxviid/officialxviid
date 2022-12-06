@@ -11,7 +11,7 @@ XVIID was founded on May 1 2020 in Bandung who develops, manufactures, licenses 
 </blockquote>
 
 <p align="center">
-  <a href="https://xviid.net/about">About</a>&nbsp;|&nbsp;<a href="https://xviid.net/products">Products</a>&nbsp;|&nbsp;<a href="https://chio.xviid.net/">Chio</a>&nbsp;|&nbsp;<a href="https://github.com/officialxviid/officialxviid/wiki/Repo">Repositories</a>
+  <a href="https://xviid.net/about">About</a>&nbsp;|&nbsp;<a href="https://xviid.net/products">Products</a>&nbsp;|&nbsp;<a href="https://chio.xviid.net/">Chio</a>&nbsp;|&nbsp;<a href="https://github.com/officialxviid?tab=repositories">Repositories</a>
 </p>
 
 <p align="center">
