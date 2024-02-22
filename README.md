@@ -16,12 +16,9 @@ XVIID was founded on May 1 2020 in Bandung who develops, manufactures, licenses 
 
 <p align="center">
   <a href="https://github.com/officialxviid/" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=GitHub&message=%40officialxviid" alt="Twitter" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=GitHub&message=%40officialxviid" style="max-width:100%;">
-  </a>
+    <img src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=GitHub&message=%40officialxviid" alt="Twitter" data-canonical-src="https://img.shields.io/static/v1?logo=github&color=ffffff&label=GitHub&message=%40officialxviid" style="max-width:100%;"></a>&nbsp;
   <a href="https://twitter.com/officialxviid/" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Twitter&message=%40officialxviid" alt="Twitter" data-canonical-src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;">
-  </a>
+    <img src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Twitter&message=%40officialxviid" alt="Twitter" data-canonical-src="https://img.shields.io/static/v1?logo=twitter&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;"></a>&nbsp;
   <a href="https://instagram.com/officialxviid/" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Instagram&message=%40officialxviid" alt="Instagram" data-canonical-src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;">
-  </a>
+    <img src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Instagram&message=%40officialxviid" alt="Instagram" data-canonical-src="https://img.shields.io/static/v1?logo=instagram&color=ffffff&label=Follow&message=%40officialxviid" style="max-width:100%;"></a>
 </p>
