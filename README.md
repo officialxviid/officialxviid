@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://xviid.net/">
-    <img src="https://raw.githubusercontent.com/officialxviid/officialxviid/main/assets/xviid/LTV-01.png" width="150"/>
+    <img src="https://raw.githubusercontent.com/officialxviid/officialxviid/refs/heads/main/assets/images/logo/XVIID/XVIIDVertical%20-%203d.png" width="150"/>
   </a>
 </p>
 
