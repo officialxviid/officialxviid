@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Quicksand-Regular, Quicksand;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        font-family: KeaniaOne-Regular, 'Keania One';
+      }
+
+      .cls-3 {
+        fill: #848685;
+        font-size: 14.08px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 36.46)"><tspan class="cls-2" x="0" y="0">XVIID </tspan><tspan class="cls-1" x="37.58" y="0">Mail</tspan></text>
+</svg>
